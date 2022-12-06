@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+    background: rgb(73, 78, 92);
+}
+
+#canvas {
+    border: 8px solid rgb(36, 37, 41);
+    background: rgb(34, 36, 41);
+}
